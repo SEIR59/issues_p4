@@ -1,7 +1,7 @@
 ---
 name: P4 Bug report
 about: 'Create a report '
-title: ''
+title: "***DETAIL YOUR ISSUE HERE (If more than one issue, make another report)"
 labels: ''
 assignees: ''
 
